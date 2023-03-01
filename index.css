@@ -1,0 +1,27 @@
+body{
+    background-image: url(./img/pic1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+button{
+    background-color: aqua;
+    font-size: 20px;
+}
+ul li{
+    list-style: none;
+    color: brown;
+}
+ul il{
+    display: inline block;
+}
+/* button:hover{
+    background-color: blue;
+    color: red;
+} */
